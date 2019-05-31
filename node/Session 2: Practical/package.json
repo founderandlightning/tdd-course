@@ -1,0 +1,23 @@
+{
+  "name": "practical_session_one",
+  "version": "1.0.0",
+  "description": "In this session, we are going to discuss few things at beginner level like why we need to write UNIT Test? How to configure/write unit test with popular testing framework along with the introduction of TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narayansharma91/TDD_with_node.git"
+  },
+  "author": "Narayan Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narayansharma91/TDD_with_node/issues"
+  },
+  "homepage": "https://github.com/narayansharma91/TDD_with_node#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
