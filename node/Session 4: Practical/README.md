@@ -3,7 +3,7 @@ In this session, we are going to discuss to setup test env in node and create te
 
 ## Focus Points
 - Review previous session
-- Setup test envirionment
+- Setup test environment
 - Run migrations before test case
 - Insert data using fixtures
 - Unit test with DB interaction and fixtures
