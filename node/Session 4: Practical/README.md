@@ -36,7 +36,7 @@ You all are requested to have a look into previous session questions and complet
  
 ## Run migrations before test case
  Migrations (also known as ‘schema evolution’ or ‘mutations’) are a way of changing your database schema from one version into another.
- Before executing test, migrations should be run so it can setup fresh database scheema. We can simple setup these commands in Package.json file 
+ Before executing test, migrations should be run so it can setup fresh database schema. We can simple setup these commands in Package.json file 
  ```{
   "name": "api",
   "scripts": {
