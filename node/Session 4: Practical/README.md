@@ -23,7 +23,7 @@ You all are requested to have a look into previous session questions and complet
 ## Setup test env
  Node js allow you to setup env through the script. When you are working on real time application there must be different env like `Development`, `Production/Staging` and `Test`. There would be different database for each env. So before run the test we need to setup test env. But `cross-env` package is required to setup it.
  
- We can do it just by creaing a test command in `Package.json` file.
+ We can do it just by creating a test command in `Package.json` file.
  ```{
   "name": "api",
   "scripts": {
