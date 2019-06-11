@@ -131,7 +131,7 @@ By now we are able to spy on method and check if is called properly, with correc
     - Try to insert same email as in fixture and validate the model validation.
     - Create a business logic to `active` the user if `active=false`.
     - Create a custom validation `UserAlreadyActive` and throw it in above function if user is already active
-    -Validate this error in test case using `asser.Reject()`
+    -Validate this error in test case using `assert.Rejects()`
 
 
 
