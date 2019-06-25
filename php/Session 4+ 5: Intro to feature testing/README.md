@@ -41,7 +41,6 @@ These are the few important assertions available on nodejs default package `asse
 -  Feature (http) v/s unit test
 -  Faker
 -  Incorrect test case
-```
 
 
 ## Few important assertions
