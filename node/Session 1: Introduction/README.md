@@ -17,7 +17,7 @@
 - Write minimal code to pass the test.
 - Refactor the code.
 
-![alt text](https://github.com/JaspinderPawar/hello-chaos/blob/master/heroku-apps.png)
+![alt text](https://github.com/narayansharma91/node_tdd_sessions/blob/master/Session%201:%20Introduction/images/TDD_process.png)
 
 #### Introduction of Unit Testing.
 &nbsp; &nbsp; A unit is the smallest testable part of software. Unit testing is a level of software testing where individual units/ components of a software are tested through testing framework. Unit Test is the part of TDD. 
